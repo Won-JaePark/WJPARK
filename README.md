@@ -1,4 +1,4 @@
-Paper : Contrast enhancement for 360 degree vid-eos considering the head motion
+Paper : Contrast enhancement for 360 degree videos considering the head motion
 
 
 
